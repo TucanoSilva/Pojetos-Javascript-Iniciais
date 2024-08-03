@@ -17,7 +17,6 @@ if ( media <= 3) {
     res.innerHTML += '<p>Com a média entre 3,0 e 6,0, o aluno está em <mark id = "recuperacao"><strong>RECUPERAÇÃO</strong></mark></p>'
 } if (media > 6) {
     res.innerHTML += '<p> Com a média acima de 6,0, o aluno está <mark id = "aprovado"><strong>APROVADO</strong></mark></p>'
-}
-    
+}   
 } 
 
